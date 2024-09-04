@@ -1,4 +1,3 @@
-install.packages('shinyWidgets')
 library(shiny)
 library(shinydashboard)
 library(dashboardthemes)
